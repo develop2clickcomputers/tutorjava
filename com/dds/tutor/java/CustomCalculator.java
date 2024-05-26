@@ -18,5 +18,6 @@ public class CustomCalculator {
         } else {
             System.out.println("Operation not supported.");
         }
+        calc.close();
     }
 }

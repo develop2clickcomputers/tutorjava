@@ -24,6 +24,7 @@ public class GokulaKrishnan {
         System.out.println("How old are you :");
         String userNameAge = systemIn.nextLine(); 
         System.out.println("Hello "+userName +", you are " + userNameAge +" years old.");
+        systemIn.close();
        
     }
 }
