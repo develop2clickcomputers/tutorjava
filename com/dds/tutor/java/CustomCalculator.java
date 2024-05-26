@@ -1,3 +1,4 @@
+package com.dds.tutor.java;
 import java.util.Scanner;
 
 public class CustomCalculator {
