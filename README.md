@@ -1,2 +1,2 @@
 # tutorjava
-Basic Java programming
+Basic of Java programming
